@@ -330,7 +330,7 @@
 
 [Roblox](https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/). Roblox end Oct 2021 73 hours outage. Issues with Consul streaming and BoltDB.
 
-[Salesforce](https://help.salesforce.com/apex/HTViewSolution?urlname=Root-Cause-Message-for-Disruption-of-Service-on-NA14-May-2016&language=en_US). Initial disruption due to power failure in one datacenter led to cascading failures with a database cluster and file discrepancies resulting in cross data center failover issues.
+[Salesforce](https://web.archive.org/web/20201203000552/https://help.salesforce.com/apex/HTViewSolution?urlname=Root-Cause-Message-for-Disruption-of-Service-on-NA14-May-2016&language=en_US). Initial disruption due to power failure in one datacenter led to cascading failures with a database cluster and file discrepancies resulting in cross data center failover issues.
 
 [Sentry](https://blog.sentry.io/2015/07/23/transaction-id-wraparound-in-postgres). Transaction ID Wraparound in Postgres caused Sentry to go down for most of a working day.
 
